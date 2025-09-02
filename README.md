@@ -45,10 +45,10 @@ PG-Life/
 │── README.md      # Documentation
 
 ## OUTPUT
-<img width="1894" height="996" alt="Image" src="https://github.com/user-attachments/assets/09d258c3-4a83-49be-ab8a-a6713828e666" />
-<img width="1903" height="994" alt="Image" src="https://github.com/user-attachments/assets/29fb95f7-1ae3-4319-8ce0-87cd9324ad99" />
-<img width="1902" height="1003" alt="Image" src="https://github.com/user-attachments/assets/f4fb2e09-3a03-4fdd-90e0-161a793e7ed5" />
-<img width="1899" height="986" alt="Image" src="https://github.com/user-attachments/assets/6f2ab8ad-f19b-400d-9382-adb5862bfb1c" />
-<img width="1900" height="986" alt="Image" src="https://github.com/user-attachments/assets/42a20a10-01a7-41fd-b510-da7260b0c300" />
-<img width="1897" height="983" alt="Image" src="https://github.com/user-attachments/assets/97f75b25-f9e4-436f-9c95-5cbcfac7152a" />
-<img width="1916" height="985" alt="Image" src="https://github.com/user-attachments/assets/bf90259a-c3be-44e7-917c-01e884e5ff73" />
+<img width="1894" height="996" alt="Image" src="https://github.com/user-attachments/assets/4a3ed78a-7f01-45c6-a1da-ed7c25fec782" />
+<img width="1903" height="994" alt="Image" src="https://github.com/user-attachments/assets/09a20892-7cf7-4959-93b9-4f969b4cf945" />
+<img width="1902" height="1003" alt="Image" src="https://github.com/user-attachments/assets/f77f51bb-6c99-40fc-9803-e4dae71cfefc" />
+<img width="1899" height="986" alt="Image" src="https://github.com/user-attachments/assets/89484225-44ae-491a-9098-7ee866c41187" />
+<img width="1900" height="986" alt="Image" src="https://github.com/user-attachments/assets/9bffce2b-0ebc-4cfc-b20c-c974da168536" />
+<img width="1897" height="983" alt="Image" src="https://github.com/user-attachments/assets/bde06a52-df9e-475d-97ec-dbbcf4fd56ae" />
+<img width="1916" height="985" alt="Image" src="https://github.com/user-attachments/assets/bb58a35b-52ca-4a96-928b-fb3f47b171d7" />
